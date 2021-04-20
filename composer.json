@@ -1,6 +1,6 @@
 {
   "name": "rundum-digital/shopware-6-sdk",
-  "description": "",
+  "description": "API client for Shopware 6",
   "keywords": [
     "swagger",
     "php",
