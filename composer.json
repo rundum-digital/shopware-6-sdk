@@ -6,7 +6,8 @@
     "php",
     "sdk",
     "api",
-    "shopware"
+    "shopware",
+    "shopware 6"
   ],
   "homepage": "http://swagger.io",
   "license": "proprietary",
