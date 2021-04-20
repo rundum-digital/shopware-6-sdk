@@ -1,0 +1,10 @@
+# SalesChannelRelationshipsAnalytics
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**links** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsAnalyticsLinks**](SalesChannelRelationshipsAnalyticsLinks.md) |  | [optional] 
+**data** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsAnalyticsData**](SalesChannelRelationshipsAnalyticsData.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+

@@ -1,0 +1,45 @@
+# SalesChannelRelationships
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**currencies** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsCurrencies**](SalesChannelRelationshipsCurrencies.md) |  | [optional] 
+**languages** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsLanguages**](SalesChannelRelationshipsLanguages.md) |  | [optional] 
+**countries** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsCountries**](SalesChannelRelationshipsCountries.md) |  | [optional] 
+**payment_methods** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsPaymentMethods**](SalesChannelRelationshipsPaymentMethods.md) |  | [optional] 
+**shipping_methods** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsShippingMethods**](SalesChannelRelationshipsShippingMethods.md) |  | [optional] 
+**type** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsType**](SalesChannelRelationshipsType.md) |  | [optional] 
+**language** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsLanguage**](SalesChannelRelationshipsLanguage.md) |  | [optional] 
+**customer_group** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsCustomerGroup**](SalesChannelRelationshipsCustomerGroup.md) |  | [optional] 
+**currency** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsCurrency**](SalesChannelRelationshipsCurrency.md) |  | [optional] 
+**payment_method** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsPaymentMethod**](SalesChannelRelationshipsPaymentMethod.md) |  | [optional] 
+**shipping_method** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsShippingMethod**](SalesChannelRelationshipsShippingMethod.md) |  | [optional] 
+**country** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsCountry**](SalesChannelRelationshipsCountry.md) |  | [optional] 
+**orders** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsOrders**](SalesChannelRelationshipsOrders.md) |  | [optional] 
+**customers** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsCustomers**](SalesChannelRelationshipsCustomers.md) |  | [optional] 
+**domains** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsDomains**](SalesChannelRelationshipsDomains.md) |  | [optional] 
+**system_configs** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsSystemConfigs**](SalesChannelRelationshipsSystemConfigs.md) |  | [optional] 
+**navigation_category** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsNavigationCategory**](SalesChannelRelationshipsNavigationCategory.md) |  | [optional] 
+**footer_category** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsFooterCategory**](SalesChannelRelationshipsFooterCategory.md) |  | [optional] 
+**service_category** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsServiceCategory**](SalesChannelRelationshipsServiceCategory.md) |  | [optional] 
+**product_visibilities** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsProductVisibilities**](SalesChannelRelationshipsProductVisibilities.md) |  | [optional] 
+**hreflang_default_domain** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsHreflangDefaultDomain**](SalesChannelRelationshipsHreflangDefaultDomain.md) |  | [optional] 
+**mail_header_footer** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsMailHeaderFooter**](SalesChannelRelationshipsMailHeaderFooter.md) |  | [optional] 
+**newsletter_recipients** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsNewsletterRecipients**](SalesChannelRelationshipsNewsletterRecipients.md) |  | [optional] 
+**mail_templates** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsMailTemplates**](SalesChannelRelationshipsMailTemplates.md) |  | [optional] 
+**number_range_sales_channels** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsNumberRangeSalesChannels**](SalesChannelRelationshipsNumberRangeSalesChannels.md) |  | [optional] 
+**promotion_sales_channels** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsPromotionSalesChannels**](SalesChannelRelationshipsPromotionSalesChannels.md) |  | [optional] 
+**document_base_config_sales_channels** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsDocumentBaseConfigSalesChannels**](SalesChannelRelationshipsDocumentBaseConfigSalesChannels.md) |  | [optional] 
+**product_reviews** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsProductReviews**](SalesChannelRelationshipsProductReviews.md) |  | [optional] 
+**seo_urls** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsSeoUrls**](SalesChannelRelationshipsSeoUrls.md) |  | [optional] 
+**seo_url_templates** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsSeoUrlTemplates**](SalesChannelRelationshipsSeoUrlTemplates.md) |  | [optional] 
+**main_categories** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsMainCategories**](SalesChannelRelationshipsMainCategories.md) |  | [optional] 
+**product_exports** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsProductExports**](SalesChannelRelationshipsProductExports.md) |  | [optional] 
+**analytics** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsAnalytics**](SalesChannelRelationshipsAnalytics.md) |  | [optional] 
+**customer_groups_registrations** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsCustomerGroupsRegistrations**](SalesChannelRelationshipsCustomerGroupsRegistrations.md) |  | [optional] 
+**event_actions** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsEventActions**](SalesChannelRelationshipsEventActions.md) |  | [optional] 
+**bound_customers** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsBoundCustomers**](SalesChannelRelationshipsBoundCustomers.md) |  | [optional] 
+**wishlists** | [**\Rundum\Shopware6\Model\SalesChannelRelationshipsWishlists**](SalesChannelRelationshipsWishlists.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
