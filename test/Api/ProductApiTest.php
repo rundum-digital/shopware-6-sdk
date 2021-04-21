@@ -36,7 +36,6 @@ use Rundum\Shopware6\ObjectSerializer;
  *
  * @category Class
  * @package  Rundum\Shopware6
- * @package  Rundum\Shopware6
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */
