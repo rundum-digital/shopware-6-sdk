@@ -1,0 +1,9 @@
+{
+  "invokerPackage": "Rundum\\Shopware6",
+  "modelPackage": "Model",
+  "apiPackage": "Api",
+  "packagePath": ".",
+  "srcBasePath": "src",
+  "composerProjectName": "shopware-6-sdk",
+  "composerVendorName": "rundum-digital"
+}
